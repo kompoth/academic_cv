@@ -134,5 +134,5 @@
   \center
   \hrule % Horizontal line
   
-  Last update: \mydate~$\bullet$~\github{Negrebetskiy}
+  Last update: \mydate~$\bullet$~\github{Negrebetskiy/academic\_cv}
 }
