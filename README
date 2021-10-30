@@ -1,0 +1,6 @@
+Academic CV
+===========
+
+This repo contains my Curriculum vitae source code. Basic style is
+implemented in academic_cv.cls. Makefile uses pdflatex for document
+compilation.
