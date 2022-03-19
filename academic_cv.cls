@@ -15,7 +15,7 @@
 \usepackage[english,russian]{babel}
 
 % Symbols
-\usepackage{fontawesome}
+\usepackage{fontawesome5}
 \usepackage{amssymb}
 
 \usepackage{parskip} % Remove paragraph indentation
@@ -30,6 +30,7 @@
 \hypersetup{colorlinks=true, urlcolor=blue}
 \newcommand*{\doi}[1]{doi:\href{http://dx.doi.org/#1}{#1}}
 \newcommand*{\email}[1]{\href{mailto:#1}{#1}}
+\newcommand*{\telegram}[1]{\faTelegram~\href{https://t.me/#1}{\@#1}}
 \newcommand*{\github}[1]{\faGithub~\href{https://github.com/#1}{#1}}
 
 \pagestyle{empty} % Suppress page numbers
@@ -133,5 +134,5 @@
   \center
   \hrule % Horizontal line
   
-  Last update: \mydate~$\bullet$~\github{Negrebetskiy/academic\_cv}
+  Last update: \mydate~$\bullet$~\github{kompoth/academic\_cv}
 }
